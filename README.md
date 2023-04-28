@@ -12,13 +12,15 @@ Affiche le PID, Nom de l'executable et fichiers DLL, Adresse IP, Port et Directi
 
 Il y a les fichiers en python, pas oublier d'installer les librairies avec la fonction : pip install ...
 
-Il y les deux versions en EXE excecutables direct, il faut attendre un peut de 5 à 10 secondes pour que le programme se stabilise en affichant les données.
+Il y les deux versions en EXE excecutables direct.
 
 #######################################################################################
 
 MISE A JOUR 28/04/2023 :
 
-Ajout option clique droit pour avoir un menu contextuel avec la fonction : "COPIER (IP)", et "WHOIS (IP)"
+- Optimisation des programmes
+
+- Ajout option clique droit pour avoir un menu contextuel avec la fonction : "COPIER (IP)", et "WHOIS (IP)"
 
 #######################################################################################
 
