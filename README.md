@@ -14,6 +14,12 @@ Il y a les fichiers en python, pas oublier d'installer les librairies avec la fo
 
 Il y les deux versions en EXE excecutables direct, il faut attendre un peut de 5 à 10 secondes pour que le programme se stabilise en affichant les données.
 
-###################################################################
+#########################################################################################################
+
+MISE A JOUR 28/04/2023 :
+
+Ajout option clique droit pour avoir un menu contextuel avec la fonction : "COPIER (IP)", et "WHOIS (IP)"
+
+#########################################################################################################
 
 AVHIRAL-TE@M 2023, coded by David PILATO. Donate PAYPAL : davidp8686@gmail.com
