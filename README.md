@@ -10,9 +10,9 @@ Dans la version 2.0 :
 
 Affiche le PID, Nom de l'executable et fichiers DLL, Adresse IP, Port et Direction que ce soit en entrée ou sortie.
 
-Il y a les fichiers en python, pas oublier d'installer les librairies avec la fonction : pip install ...
+Installation des librairies : pip install install.py
 
-Il y les deux versions en EXE excecutables direct.
+Il y les deux versions en EXE excecutables direct pour Windows.
 
 #######################################################################################
 
