@@ -7,7 +7,7 @@ import subprocess
 import sys
 import pathlib
 import threading
-import pyperclip  # Ajout de l'importation de pyperclip
+import pyperclip  
 import whois
 
 GMEM_MOVEABLE = 0x0002
