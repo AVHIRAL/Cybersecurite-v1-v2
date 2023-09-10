@@ -24,4 +24,4 @@ MISE A JOUR 28/04/2023 :
 
 #######################################################################################
 
-AVHIRAL-TE@M 2023, coded by David PILATO. Donate PAYPAL : davidp8686@gmail.com
+AVHIRAL-TE@M 2023, coded by David PILATO. Donate PAYPAL : contact@avhiral.com
